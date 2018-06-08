@@ -4,17 +4,17 @@ import './Nav.css'
 class Nav extends Component {
   render() {
     return (
-      <header className="Nav-header">
+      <nav className="Nav-header">
         <div className="brand">
+          <span className="brand-name">WDI-</span>
           <img src="./sign22high.png" alt="Sign with 22 on it" />
-          <span>WDI-22</span>
         </div>
         <div className="right">
           <a href="#">Home</a>
-          <a href="#">About</a>
+          <a href="#">Who?</a>
           <a href="#">Events</a>
         </div>
-      </header>
+      </nav>
     )
   }
 }
