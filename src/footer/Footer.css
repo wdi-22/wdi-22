@@ -1,0 +1,14 @@
+footer {
+  display: grid;
+  grid:
+    auto
+    / 1fr 1fr 1fr;
+    /* placeholder color */
+  background: #475B5A;
+  text-align: center;
+  height: 100px;
+  color: #F8F1FF;
+}
+footer div {
+  line-height: 100px;
+}

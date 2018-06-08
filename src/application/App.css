@@ -16,6 +16,6 @@ div.App {
 main {
 	grid-area: content;
 }
-.App-footer {
+footer {
 	grid-area: footer;
 }
