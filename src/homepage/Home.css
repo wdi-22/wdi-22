@@ -1,0 +1,21 @@
+.home {
+  display: grid;
+  grid:
+    "left right" auto
+    / 1fr 2fr;
+    /* placeholder color */
+  background: #95B2B8;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+main div:first-child {
+  line-height: 25px;
+}
+main div:first-child h1 {
+text-align: center;
+}
+main div:last-child img {
+  width: 100%;
+  margin: 25px;
+}

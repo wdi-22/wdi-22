@@ -1,0 +1,36 @@
+.Nav-header {
+  padding: 25px 0;
+  border-bottom: 1px solid black;
+}
+.brand {
+  float: left;
+}
+.brand:hover {
+  cursor: pointer;
+}
+.brand-name {
+  font-size: 1.3em;
+}
+.brand img {
+  width: 30px;
+  height: auto;
+  vertical-align: middle;
+}
+.App-header li, .brand {
+  display: inline-block;
+}
+
+.right {
+  display: inline-block;
+  float: right;
+}
+.right a {
+  color: black;
+  text-decoration: none;
+  line-height: 30px;
+  padding: 10px 15px;
+}
+.right a:hover {
+  box-sizing: border-box;
+  outline: 1px dotted black;
+}
