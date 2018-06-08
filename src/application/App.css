@@ -1,0 +1,17 @@
+div.App {
+  display: grid;
+  grid:
+		"header" auto
+		"content" auto
+		"footer" auto
+    /auto;
+}
+.App-header {
+	grid-area: header;
+}
+.App-content {
+	grid-area: content;
+}
+.App-footer {
+	grid-area: footer;
+}
