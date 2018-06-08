@@ -6,11 +6,14 @@ div.App {
 		"footer" auto
     /auto;
 }
+.Nav-header, main {
+  padding-left: 20%;
+  padding-right: 20%;
+}
 .Nav-header {
 	grid-area: header;
-  padding: 10px 20%;
 }
-.App-content {
+main {
 	grid-area: content;
 }
 .App-footer {

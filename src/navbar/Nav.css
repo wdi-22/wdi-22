@@ -1,5 +1,5 @@
 .Nav-header {
-  padding: 12px 0;
+  padding: 25px 0;
   border-bottom: 1px solid black;
 }
 .brand {
@@ -10,7 +10,6 @@
 }
 .brand-name {
   font-size: 1.3em;
-  padding: 0 0 0 5px;
 }
 .brand img {
   width: 30px;
