@@ -6,9 +6,9 @@ footer {
     /* placeholder color */
   background: #475B5A;
   text-align: center;
-  height: 100px;
+  height: 75px;
   color: #F8F1FF;
 }
 footer div {
-  line-height: 100px;
+  line-height: 75px;
 }

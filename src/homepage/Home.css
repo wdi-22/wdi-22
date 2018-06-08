@@ -5,6 +5,8 @@
     / 1fr 2fr;
     /* placeholder color */
   background: #95B2B8;
+  padding-top: 75px;
+  padding-bottom: 75px;
 }
 
 main div:first-child {
