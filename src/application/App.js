@@ -9,8 +9,6 @@ class App extends Component {
       <div className="App">
         <Nav />
         <Home />
-        <img src="./wdi22gradphoto.jpeg" />
-        <img src="./sign22high.png" />
       </div>
     )
   }

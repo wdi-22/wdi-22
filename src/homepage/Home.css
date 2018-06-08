@@ -3,6 +3,8 @@
   grid:
     "left right" auto
     / 1fr 2fr;
+    /* placeholder color */
+  background: #95B2B8;
 }
 
 main div:first-child {
@@ -11,6 +13,7 @@ main div:first-child {
 main div:first-child h1 {
 text-align: center;
 }
-main div:last-child {
-  /* background: green */
+main div:last-child img {
+  width: 100%;
+  margin: 25px;
 }
