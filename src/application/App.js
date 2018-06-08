@@ -6,7 +6,14 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Welcome to React</h1>
+          <div className="brand">
+            <img src="./sign22high.png" alt="Sign with 22 on it" />
+          </div>
+          <ul>
+            <li><a>Home</a></li>
+            <li><a>Link2</a></li>
+            <li><a>Events</a></li>
+          </ul>
         </header>
         <div className="App-content">
           <p className="App-intro">
