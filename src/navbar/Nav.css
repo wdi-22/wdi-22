@@ -1,0 +1,19 @@
+.brand {
+  float: left;
+}
+.brand img {
+  width: 30px;
+  height: auto;
+}
+.App-header li, .brand {
+  display: inline-block;
+}
+
+.right {
+  display: inline-block;
+  float: right;
+}
+.right a {
+  color: black;
+  text-decoration: none;
+}

@@ -6,8 +6,9 @@ div.App {
 		"footer" auto
     /auto;
 }
-.App-header {
+.Nav-header {
 	grid-area: header;
+  padding: 10px 20%;
 }
 .App-content {
 	grid-area: content;
